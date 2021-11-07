@@ -20,7 +20,3 @@ custom_attributes: ''
 custom_css: ''
 
 ---
-**ESSAIIIII**
-
-* OOO
-* PPPP[plan.pdf](/uploads/plan.pdf "plan.pdf")
