@@ -1,5 +1,5 @@
 ---
-title : "I'm Somrat Sorkar"
+title : "Boris Rybaltchenko"
 # full screen navigation
 first_name : "Bâtir Rénover Architecture Vivante"
 last_name : "BRAV"
