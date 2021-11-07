@@ -15,7 +15,7 @@ button:
   enable: true
   label: BRAV
   link: "#contact"
-custom_class: ''
+custom_class: 'align : center'
 custom_attributes: ''
 custom_css: ''
 
