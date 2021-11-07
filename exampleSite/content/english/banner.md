@@ -5,8 +5,8 @@ last_name: Rybaltchenko
 bg_image: images/backgrounds/full-nav-bg.jpg
 occupations:
 - Bâtir
-- Architecture
-- Vivante
+- Réhabiliter
+- Architecture Vivante
 slider_images:
 - images/slider/slider-1.jpg
 - images/slider/slider-2.jpg
