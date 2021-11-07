@@ -6,9 +6,10 @@ last_name : "BRAV"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
-- "Web Developer"
-- "Graphic Designer"
-- "Database Manager"
+- "Bâtir"
+- "Rénover"
+- "Architecture Vivante"
+
 
 # slider background image loop
 slider_images:
