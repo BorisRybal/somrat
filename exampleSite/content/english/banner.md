@@ -4,9 +4,9 @@ first_name: Boris
 last_name: Rybaltchenko
 bg_image: images/backgrounds/full-nav-bg.jpg
 occupations:
-- Web Developer
-- Graphic Designer
-- Database Manager
+- Bâtir
+- Architecture
+- Vivante
 slider_images:
 - images/slider/slider-1.jpg
 - images/slider/slider-2.jpg
