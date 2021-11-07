@@ -1,8 +1,8 @@
 ---
 title : "I'm Somrat Sorkar"
 # full screen navigation
-first_name : "MacGyver"
-last_name : "SOMRAT"
+first_name : "Bâtir Rénover Architecture Vivante"
+last_name : "BRAV"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
@@ -19,7 +19,7 @@ slider_images:
 # button
 button:
   enable : true
-  label : "HIRE ME"
+  label : "BRAV"
   link : "#contact"
 
 
