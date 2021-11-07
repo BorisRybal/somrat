@@ -1,7 +1,7 @@
 ---
-title: BRAV
-first_name: MacGyver
-last_name: SOMRAT
+title: Boris Rybaltchenko Architecture Vivante
+first_name: Boris
+last_name: Rybaltchenko
 bg_image: images/backgrounds/full-nav-bg.jpg
 occupations:
 - Web Developer
