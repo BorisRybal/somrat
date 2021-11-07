@@ -1,4 +1,10 @@
 ---
 label: Essai_template_A
 hide_body: true
-fields: []
+fields:
+- name: boris_label
+  type: text
+  config:
+    required: false
+  label: Boris LABEL
+  description: Il s'agit de la description
