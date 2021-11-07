@@ -970,15 +970,15 @@ ul.experience-chart li:hover:after {
 }
 
 ul.experience-chart h4 {
-  font-size: 19px;
+  font-size: 14px;
   margin-top: 0;
   margin-bottom: 4px;
-  font-weight: 700;
+  font-weight: 300;
   color: #4d4d4d;
 }
 
 .experience-chart li span {
-  font-weight: 700;
+  font-weight: 300;
   color: #6f6f6f;
 }
 
@@ -1123,7 +1123,7 @@ ul.experience-chart h4 {
   right: 0;
   top: 100px;
   text-align: center;
-  font-weight: 700;
+  font-weight: 200;
   letter-spacing: -0.5px;
   font-size: 19px;
 }
@@ -1156,9 +1156,9 @@ ul.experience-chart h4 {
 .need-service h1 {
   position: relative;
   color: #fff;
-  font-weight: 700;
+  font-weight: 300;
   margin: 0;
-  font-size: 40px;
+  font-size: 20px;
   letter-spacing: 2px;
   z-index: 2;
 }
