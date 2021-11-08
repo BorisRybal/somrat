@@ -1,5 +1,5 @@
 ---
-title: Témoignages
+title: Témoignages_FR
 testimonial_slider:
 - name: Micheal Clark
   image: images/clients/client1.jpg
