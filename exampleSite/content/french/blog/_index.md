@@ -1,5 +1,5 @@
 ---
-title: "Oh My Blog!"
+title: "Oh My Blog! FR"
 description: "This is meta description."
 draft: false
 
