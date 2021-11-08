@@ -11,44 +11,7 @@
 	/*--------------------------------
 			End Preloader Animation
 		----------------------------------*/
-// Animation Intro
 
-function animIntro() {
-
-
-
-setTimeout(function(){
-    $("path, rect, polygon").each(function(){
-    var id = $(this).attr("class");
-    var num = (300 + Math.floor(Math.random() * 300)) / 300;
-    $(this).css({"transition": "transform " + num +"s ease-out"})
-    $(this).addClass(id + "--active");
-  })
-
-}, 800);
-
-setTimeout(function(){
-    $(".wrapper_animationIntro").animate({"background-color": "rgba(255,255,255,0)"}, { duration: 800, queue: false });
-    $(".wrapper_animationIntro").delay(100).fadeOut(500);
-}, 3300);
-  
-}
-
-
-$(".wrapper_animationIntro").addClass("animated fadeInUp");
-  if(typeof(sessionStorage.getItem("welcomeShown")) != null && sessionStorage.getItem("welcomeShown") != "true"){
-    animIntro();
-    sessionStorage.setItem("welcomeShown","true");
-  }else{
-  	$(".wrapper_animationIntro").hide();
-  }
-
-$(window).keydown(function (e){
-    if(e.keyCode == 13){
-        sessionStorage.clear();
-    }
-})
-// End----------------Animation Intro
 
 	// -----------------------------
 	//  Count Up
