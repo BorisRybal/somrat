@@ -16,7 +16,7 @@ experience:
     - name : "Web Developer"
       company : "Fiverr.com"
       duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+      content : "I work with VICTOR, HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
       
     # experience item loop
     - name : "Graphic Designer"
@@ -58,4 +58,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Dupont, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+It's VICTOR Dupont, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
