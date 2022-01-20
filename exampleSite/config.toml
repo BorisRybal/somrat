@@ -101,7 +101,7 @@ link = "https://www.linkedin.com/in/brav"
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 home = "Home"
 # copyright
 copyright = "Copyright &copy; 2021 BRAV"
@@ -156,7 +156,7 @@ weight = 7
 languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
-weight = 2
+weight = 1
 home = "Accueil"
 # copyright
 copyright = "Copyright &copy; 2021 BRAV"
