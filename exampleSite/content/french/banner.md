@@ -1,12 +1,12 @@
 ---
 title: Boris Rybaltchenko
-first_name: Bâtir Rénover Architecture Vivante
+first_name: Bâtir Rénover Pour une Architecture Vivante
 last_name: BRAV
 bg_image: images/backgrounds/full-nav-bg.jpg
 occupations:
 - Bâtir
 - Rénover
-- Architecture Vivante
+- Pour une Architecture Vivante
 slider_images:
 - images/slider/slider-1.jpg
 - images/slider/slider-2.jpg
