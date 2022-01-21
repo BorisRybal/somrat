@@ -6,7 +6,7 @@ bg_image: images/backgrounds/full-nav-bg.jpg
 occupations:
 - Bâtir
 - Rénover
-- Pour une Architecture Vivante
+- Pour une Architecture <i>Vivante</i>
 slider_images:
 - images/slider/slider-1.jpg
 - images/slider/slider-2.jpg
