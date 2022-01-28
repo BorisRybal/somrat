@@ -1,11 +1,11 @@
 ---
-title : "SAY HELLO!"
+title : "Contactons-nous"
 bg_image: "images/backgrounds/contact-us-bg.jpg"
 form_action: "#" # works with https://formspree
-name: "Name"
+name: "Nom"
 email: "Email"
 message: "Message"
-submit: "Submit"
+submit: "Envoyer"
 
 
 # custom style
