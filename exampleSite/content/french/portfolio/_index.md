@@ -1,11 +1,9 @@
 ---
-title: "Portfolio"
-description: "This is meta description."
-draft: false
+title: Portfolio
+description: This is meta description.
+custom_class: ''
+custom_attributes: ''
+custom_css: ''
+draft: true
 
-
-# custom style
-custom_class: "" 
-custom_attributes: "" 
-custom_css: ""
 ---
