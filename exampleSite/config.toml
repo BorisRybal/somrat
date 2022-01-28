@@ -7,7 +7,7 @@ paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disable language
-disableLanguages = ["Fr"] # disable language from here
+disableLanguages = ["En"] # disable language from here
 # google analutics
 googleAnalytics = "" # example : UA-123-45
 # disqus short name
