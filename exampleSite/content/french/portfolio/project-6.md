@@ -19,6 +19,7 @@ project_info:
 - name: Loop Item
   icon: fas fa-redo
   content: This is in a loop
+draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
