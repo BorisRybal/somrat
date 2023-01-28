@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
-title = "BRAV | Boris Rybaltchenko Architecture Vivante"
+title = "BRAV | Boris Rybaltchenko Architecte"
 theme = "somrat"
 # post pagination
 paginate = "6"
@@ -67,7 +67,7 @@ logo_light = "images/logo.png"
 logo_dark = "images/logo-dark.png"
 logo_width = "150px"
 # Meta data
-description = "Boris Rybaltchenko Architecture Vivante description"
+description = "Boris Rybaltchenko Architecture description"
 author = "BRAV"
 
 # Preloader
